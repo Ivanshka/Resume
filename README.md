@@ -59,6 +59,7 @@ Developing of educational game for children with psychophysical disabilities. Th
 * Participated in weekly meetings with the customer
 * Clarified requirements
 * Improving code quality
+
 Tools, Environment, Languages and Technologies: Unity, Visual Studio, C#, XML.
 
 ## Some stats
